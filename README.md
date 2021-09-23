@@ -1,2 +1,2 @@
 # Alien_Invasion_JT
-alien invasion game python
+game made with pygame
